@@ -1,0 +1,72 @@
+body
+{
+	
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#header
+{
+  background: #7D6608;
+  padding-top: 8px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-family:Times New Roman;
+  font-size:17px;
+}
+
+
+#footer	
+{
+  background:#7D6608;
+  padding-top: 8px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-family:Times New Roman;
+  font-size:17px;
+}
+.page-heading	
+{
+  text-align:center;
+  
+  font-family:Times New Roman;
+ 
+}
+.listed
+{
+  color: black;
+  font-family:Times New Roman;
+	
+}
+.para
+{
+  color:#CACFD2;
+  font-family:Times New Roman;
+}
+.footer
+{
+  color:white ;
+  font-family:Times New Roman;
+  text-decoration:none;
+}
+#btnenq
+{
+    position:fixed;
+    top:430px;
+    left: 5px;
+    background-color:rgba(214, 17, 175, 0.794);
+    transform: rotate(90deg);
+    margin-left: -20px;
+}
+#menu
+{
+  padding-top: 0px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+ 
+  font-size:17px;
+}
